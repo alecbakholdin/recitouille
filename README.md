@@ -1,6 +1,6 @@
 # recitouille
 
-Youre'e aid in the kitchen~
+Youre'e aid in the kitchen~ UwU
 
 ## Getting Started
 
